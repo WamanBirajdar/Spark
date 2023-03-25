@@ -1,6 +1,6 @@
 # SQL 
 + From basic to Advanced i covered all topics of SQL
-+ Here i created code files of What i learned in SQL Practical Perspective.
++ Here i created Roadmap of SQL, from my Perspective.
 
 # class 1
 + Create table and Database.
