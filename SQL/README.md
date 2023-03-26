@@ -20,6 +20,14 @@
 # class 2
 # class 3
 # class 4
++ Joins
+  - inner join
+  - right join
+  - left join
+  - cross join(mysql)
+  - self join
 # class 5
 + Window Functions
+  - order by
+  - partition by
 # class 6
