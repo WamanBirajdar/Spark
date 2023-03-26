@@ -21,4 +21,5 @@
 # class 3
 # class 4
 # class 5
++ Window Functions
 # class 6
