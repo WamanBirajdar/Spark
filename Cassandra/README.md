@@ -1,5 +1,11 @@
 # Cassandra Roadmap
 
+### What is cassandra ?
+### Cassandra Architecture
+### Data replication in Cassandra
+### Different condepts in Cassandra
+
+
 # Practical  
 + Platform 
   - Here for cassandra I'm using clod based platform DATATAX
