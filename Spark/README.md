@@ -8,5 +8,15 @@
 + withColumn
 + withColumnRenamed
 + filter
++ comparision operators
+  - <
+  - >
+  - &
+  - <>
+  - !=
+  - ==
++ distinct
++ drop
++ dropduplicates
 
 
