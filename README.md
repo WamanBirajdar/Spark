@@ -7,3 +7,6 @@ But, I think Experienced come from practice, If your Basic fundamentals + Projec
 
 # Spark 
 + Hands on pyspark+hadoop environment. 
+
++ Spark Master:
+ *https://gray-hairdresser-rssio.ineuron.app:8080/
