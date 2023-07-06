@@ -21,7 +21,8 @@ schema = StructType([ \
  df = spark.createDataFrame(data=person_list,schema=schema)
  
  df.show(truncate=False)
- 
+ df.head()
+ df.take()
  df.printSchema()
  
  
